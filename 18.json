@@ -1115,5 +1115,192 @@
     "group": "18+",
     "isActive": true,
     "reverseOrder": false
+  },
+  {
+    "key": "4SD76E",
+    "id": 100,
+    "name": "99资源",
+    "api": "http://99zy.pw/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "4Mibov",
+    "id": 101,
+    "name": "字幕网",
+    "api": "http://zmcj88.com/sapi?ac=videolist",
+    "download": "",
+    "jiexiUrl": "默认",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "kYI3WL",
+    "id": 102,
+    "name": "乐鱼",
+    "api": "http://zmcj88.com/sapi?ac=videolist",
+    "download": "",
+    "jiexiUrl": "https://player.leyuzy.net/?url=",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "rztpjZ",
+    "id": 103,
+    "name": "水蜜桃",
+    "api": "http://51smt4.xyz/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "QthjFu",
+    "id": 104,
+    "name": "芒果",
+    "api": "https://mgzyz1.com/api.php/provide/vod/?ac=list",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "XnTgqS",
+    "id": 105,
+    "name": "乐鱼资源",
+    "api": "https://www.leyuzyapi.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "4T4NQ6",
+    "id": 106,
+    "name": "91视频",
+    "api": "https://www.888dav.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "n5jn06",
+    "id": 108,
+    "name": "秀色",
+    "api": "https://api.xiuseapi.com/api.php/provide/vod/?ac=detail",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "mPIZXS",
+    "id": 109,
+    "name": "富二代",
+    "api": "http://f2dcj6.com/sapi?ac=videolist",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "PuTPo9",
+    "id": 110,
+    "name": "银龙",
+    "api": "https://yinlong.tv/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "q3ijGF",
+    "id": 111,
+    "name": "哥哥妹妹",
+    "api": "http://www.ggmmzy.com:9999/inc/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "Zukti1",
+    "id": 112,
+    "name": "4000",
+    "api": "http://4000zy.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "DZac7n",
+    "id": 113,
+    "name": "9号",
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "GoRoIG",
+    "id": 114,
+    "name": "白嫖",
+    "api": "https://www.kxgav.com/api/xml.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "Oom8KE",
+    "id": 115,
+    "name": "大mm",
+    "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "Jtsfsr",
+    "id": 116,
+    "name": "酷豆",
+    "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.kubohk.com/jx/?url=",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "zzEsiJ",
+    "id": 117,
+    "name": "狼少年",
+    "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
   }
 ]
